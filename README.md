@@ -1,6 +1,6 @@
 # <img src="img/icon-gimp.png" alt="Format Workflow Filename icon" align="center" width="45"/> Format Workflow Filename | Alfred Workflow
 
-Standardize and optimize your Alfred workflow names by automatically applying the `kebab-case` format on export, ready to share with the community.
+Standardize and optimize your Alfred workflow names by automatically applying your chosen naming convention (`kebab-case`, `snake_case`, `PascalCase`) on export, ready to share with the community.
 
 ## Download
 
